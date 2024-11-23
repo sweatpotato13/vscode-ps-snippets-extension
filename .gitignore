@@ -42,3 +42,7 @@ lerna-debug.log*
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+*.vsix
+
+test.cpp
